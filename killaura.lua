@@ -1,7 +1,7 @@
 -- ========================================
 -- KILLAURA AVANCÉ POUR LOOTIFY
 -- ========================================
--- Créé par: Votre Nom
+-- Créé par: ZayroSs117
 -- Version: 1.0
 -- Description: Système de killaura avec interface Rayfield
 
